@@ -3,6 +3,8 @@
 
 This is a responsive and interactive personal portfolio built using **HTML**, **CSS**, and **JavaScript**. It highlights your skills, projects, resume, and contact details — serving as your digital identity for recruiters and collaborators.
 
+🌐 Preview --  https://krithvik07.github.io/my-portfolio/
+
 ---
 
 ## 📌 Why Do You Need a Portfolio?
