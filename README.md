@@ -89,20 +89,6 @@ Deploy your portfolio online using one of the following methods:
    https://<username>.github.io/<repo-name>/
    ```
 
-### ✅ Netlify
-
-1. Go to [https://netlify.com](https://netlify.com)
-2. Click **New Site from Git**
-3. Connect your GitHub repo
-4. Deploy (no build command needed)
-
-### ✅ Vercel
-
-1. Visit [https://vercel.com](https://vercel.com)
-2. Click **Import Project**
-3. Select your GitHub repo
-4. Deploy with default settings
-
 ---
 
 ## 📁 Folder Structure
